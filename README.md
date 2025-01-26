@@ -1,4 +1,4 @@
-![Hackathon Cover Image](./public/images/cover_readme.webp)
+![Hackathon Cover Image](https://res.cloudinary.com/dg3oj3rkx/image/upload/v1737860113/ai_for_connectivity_hackathon/cover_readme_hz67rr.webp)
 
 Public sector connectivity networks are digital infrastructures that provide internet and communication services to public institutions such as schools, healthcare facilities, and government offices. These networks enable equitable access to essential services, fostering education, healthcare, governance, and economic development, particularly in underserved or remote areas. They are essential to bring connectivity, in our increasingly digitized world, to every corner of the globe.
 
